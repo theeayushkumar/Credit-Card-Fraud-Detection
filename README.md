@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
-By using python and Machine Learning
+By using Python and Machine Learning
+- I have used the Random Forest Classifier.
